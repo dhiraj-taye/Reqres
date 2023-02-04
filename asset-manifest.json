@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reqres/static/css/main.073c9b0a.css",
+    "main.js": "/Reqres/static/js/main.60074277.js",
+    "index.html": "/Reqres/index.html",
+    "main.073c9b0a.css.map": "/Reqres/static/css/main.073c9b0a.css.map",
+    "main.60074277.js.map": "/Reqres/static/js/main.60074277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60074277.js"
+  ]
+}
